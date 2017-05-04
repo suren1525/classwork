@@ -10,6 +10,7 @@ namespace ClassWorkConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("class");
         }
     }
 }
